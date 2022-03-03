@@ -1,0 +1,41 @@
+.title {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("/Users/alex/Documents/CraftsProject/Resources/pattern.jpg");
+    
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white
+}
+
+.Price-Brush, .Price-Frame, .Price-Tube {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.brushes, .paints, .frames {
+    border-style: solid;
+}
+
+.brushes {
+    border-color: mediumspringgreen;
+    background-color: mediumspringgreen;
+}
+
+.frames {
+    border-color: lightcoral;
+    background-color: lightcoral;
+}
+
+.paints {
+    border-color: skyblue;
+    background-color: skyblue;
+}
